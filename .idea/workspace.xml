@@ -39,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Divisors">
+  <component name="RunManager" selected="Python.Check Primality Functions">
     <configuration name="Check Primality Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leaning Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,8 +147,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Divisors" />
         <item itemvalue="Python.Check Primality Functions" />
+        <item itemvalue="Python.Divisors" />
         <item itemvalue="Python.Guessing Game One" />
         <item itemvalue="Python.Rock Paper Scissors" />
         <item itemvalue="Python.List Comprehensions" />
