@@ -20,7 +20,9 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1XfO9jN59Ka1KHvaeSKZW66a2jU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Programs/Git/cmd/git.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -37,8 +39,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Guessing Game One">
-    <configuration name="Divisors" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Check Primality Functions">
+    <configuration name="Check Primality Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leaning Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,7 +52,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Divisors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Check Primality Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Check Primality Functions" />
         <item itemvalue="Python.Guessing Game One" />
         <item itemvalue="Python.Rock Paper Scissors" />
         <item itemvalue="Python.List Comprehensions" />
         <item itemvalue="Python.String Lists" />
-        <item itemvalue="Python.Divisors" />
       </list>
     </recent_temporary>
   </component>
