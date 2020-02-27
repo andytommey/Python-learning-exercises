@@ -27,4 +27,4 @@ while True:
     else:
         guess = int(input("Guess what number I'm thinking of, between 1 and 9: "))
 
-print("Thanks for playing. You have made " + str(count) + " guesses!")
+print("Thanks for playing. It took you " + str(count) + " guesses to get right!")
