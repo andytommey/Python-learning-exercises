@@ -11,10 +11,20 @@ import random
 a = random.randint(1, 9)
 
 guess = int(input("Guess what number I'm thinking of, between 1 and 9: "))
+count = 0
+while True:
+    if a == guess:
+        print("Wow, you guessed exactly right!")
+    elif a > guess:
+        print("Nope, too low!")
+    else:
+        print("Nope, too high!")
+    count += 1
+    leaveGame = input("Type 'exit' if you wish to quit the game. If not, type anything else: ")
+    leaveGame = leaveGame.lower()
+    if leaveGame == 'exit':
+        break
+    else:
+        guess = int(input("Guess what number I'm thinking of, between 1 and 9: "))
 
-if a == guess:
-    print("Wow, you guessed exactly right!")
-elif a > guess:
-    print("Nope, too low!")
-else:
-    print("Nope, too high!")
+print("Thanks for playing. You have made " + str(count) + " guesses!")
