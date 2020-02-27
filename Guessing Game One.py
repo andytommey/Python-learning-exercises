@@ -20,7 +20,7 @@ while True:
     else:
         print("Nope, too high!")
     count += 1
-    leaveGame = input("Type 'exit' if you wish to quit the game. If not, type anything else: ")
+    leaveGame = input("Type 'exit' if you wish to quit the game. If not, just press enter: ")
     leaveGame = leaveGame.lower()
     if leaveGame == 'exit':
         break
