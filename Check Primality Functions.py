@@ -9,8 +9,6 @@ def is_prime():
     newdivisors = [i for i in divisors if number % i == 0]
     if len(newdivisors) == 2:
         return str(number) + " is a prime number"
-    elif number == 1:
-        return str(number) + " is a prime number"
     else:
         return str(number) + " is not a prime number"
 

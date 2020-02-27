@@ -11,7 +11,5 @@ print(newDivisors)
 
 if len(newDivisors) == 2:
     print(str(number) + " is a prime number")
-elif number == 1:
-    print(str(number) + " is a prime number")
 else:
     print(str(number) + " is not a prime number")
