@@ -4,13 +4,8 @@ For example, 13 is a divisor of 26 because 26 / 13 has no remainder.)"""
 
 
 number = int(input("Enter a number: "))
-
 divisors = range(1, number + 1)
-newDivisors = []
-
-for i in divisors:
-    if number % i == 0:
-        newDivisors.append(i)
+newDivisors = [i for i in divisors if number % i == 0]
 
 print(newDivisors)
 

@@ -6,10 +6,7 @@
 def is_prime():
     number = int(input("Enter a number: "))
     divisors = range(1, number + 1)
-    newdivisors = []
-    for i in divisors:
-        if number % i == 0:
-            newdivisors.append(i)
+    newdivisors = [i for i in divisors if number % i == 0]
     if len(newdivisors) == 2:
         return str(number) + " is a prime number"
     elif number == 1:
