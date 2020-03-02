@@ -10,5 +10,3 @@ def list_ends(a_list):
 
 
 print(list_ends(a))
-
-
