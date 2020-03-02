@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97206e2d-3637-4c0e-81f1-a65db44f3c5b" name="Default Changelist" comment="" />
+    <list default="true" id="97206e2d-3637-4c0e-81f1-a65db44f3c5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/List Ends.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +27,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Programs/Git/cmd/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -39,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Check Primality Functions">
+  <component name="RunManager" selected="Python.List Ends">
     <configuration name="Check Primality Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leaning Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="List Comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="List Ends" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leaning Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List Comprehensions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List Ends.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.List Ends" />
         <item itemvalue="Python.Check Primality Functions" />
         <item itemvalue="Python.Divisors" />
         <item itemvalue="Python.Guessing Game One" />
         <item itemvalue="Python.Rock Paper Scissors" />
-        <item itemvalue="Python.List Comprehensions" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +176,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
